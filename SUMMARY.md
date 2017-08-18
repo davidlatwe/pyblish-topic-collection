@@ -7,6 +7,7 @@
 * [An User friendly API design concept](general/an-user-friendly-api-design-concept.md)
 * [Plugin Ordering/Automation Framework](general/plugin-orderingautomation-framework.md)
 * [Integrations and Extensions](general/integrations-and-extensions.md)
+* [Storing publish results within a database](general/storing-publish-results-within-a-database.md)
 
 ## Tips & Tricks
 

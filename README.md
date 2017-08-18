@@ -1,12 +1,13 @@
 # Pyblish Forums Topics Collection
 
 This is a topics collection from **[Pyblish Forums](http://forums.pyblish.com/)**.
+For pipeline developer who just jump into **[Pyblish](http://pyblish.com/)** and needs to catch up Pyblish Forum's mind flow.
 
-For pipeline developer who just jump into **[Pyblish](http://pyblish.com/)** and needs to catch up Pyblish development team's mind flow.
+Here mainly focus on current [Pyblish-base](https://github.com/pyblish/pyblish-base) function relative and some other thoughts might be useful.
 
-Here mainly focus on current [Pyblish-base](https://github.com/pyblish/pyblish-base) function relative thoughts.
 
-Current Pyblish-base version [1.4.5](https://github.com/pyblish/pyblish-base/releases/tag/1.4.5)
+This book edit under Pyblish-base version 1.4.5
+
 
 
 ##### before gaining help from this book, should read this first
@@ -14,3 +15,15 @@ Current Pyblish-base version [1.4.5](https://github.com/pyblish/pyblish-base/rel
 
 ##### other resource
 * [Pyblish Developer Guide](https://pyblish.gitbooks.io/developer-guide/content/)
+
+### Notice
+Topics collected in here will be simplified, for the purpose of **reducing tl;dr**.
+
+As for what will be simplified or how, is depend on the editor's point of view.
+Editor should be fair about what to keep and what to loose, and need to organize them.
+Not just copy and paste.
+
+---
+###### Editor's background
+
+Hi (Todo)
