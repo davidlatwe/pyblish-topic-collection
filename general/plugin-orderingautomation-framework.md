@@ -14,6 +14,7 @@ The ordering in which plugins are currently being run.
 
 `Selection -> Validation -> Extraction -> Conform`
 
+> Editor:
 > The terms of the publish workflow has been changed to
 > `Collection -> Validation -> Extraction -> Integration`
 

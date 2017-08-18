@@ -18,5 +18,5 @@
 ## Pipeline Development
 
 * [Extending Pyblish](pipeline-development/extending-pyblish.md)
-* [Pyblish for Deadline](pipeline-development/pyblish-for-deadline.md)
+* [Background Publishing](pipeline-development/background-publishing.md)
 

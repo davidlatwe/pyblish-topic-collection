@@ -18,6 +18,7 @@ It will be used for visualising time taken:
 * Per plug-in
 * Per function within plug-in
 
+> Editor:
 > some become presenting as "duration"
 
 For the purposes of:

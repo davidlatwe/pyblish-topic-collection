@@ -8,6 +8,7 @@ Original Time : Sep 28, 2014
 
 ## Using ID for instances to match Instance and Selector
 
+> Editor:
 > Notice, "Selector" is an old term, it's "Collector" now.
 
 Using an **ID** for instances to match Instance and Selector, much like we are with **Family** and **Plugin**.
