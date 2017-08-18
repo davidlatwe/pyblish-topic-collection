@@ -20,8 +20,12 @@ This book edit under Pyblish-base version 1.4.5
 Topics collected in here will be simplified, for the purpose of **reducing tl;dr**.
 
 As for what will be simplified or how, is depend on the editor's point of view.
-Editor should be fair about what to keep and what to loose, and need to organize them.
+There is no right nor wrong.
+
+Editor should be fair about what to keep and what to loose, also needs to organize them.
 Not just copy and paste.
+
+Example code in the topic might be modified, for catch up the latest release of pyblish-base.
 
 ---
 ###### Editor's background
