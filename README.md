@@ -12,36 +12,27 @@ Pyblish-base version since last book update is 1.4.5
 
 ##### before reading this book, perhaps read this first
 * [Pyblish by Example](https://learn.pyblish.com/)
+> Best starter resource
 
 ##### other resource
 * [Pyblish Developer Guide](https://pyblish.gitbooks.io/developer-guide/content/)
+> Might not the latest release, but still work
 
 ### Notice
+* This is not official collection, this is fan made.
+
 * Topics collected in here will be simplified, for the purpose of **reducing tl;dr**.
 
 * As for what will be simplified or how, is depend on the editor's point of view. ( with best regards )
 
-* Editor should be fair about what to keep and what to loose, also needs to organize them.
-( Not just copy and paste )
+* Editor not only simplified, but also needs to organize them. ( Not just copy and paste )
 
-* Some topics in forums relative to pyblish-base deprecated feature, will not be collected.
+* Some topics relative to pyblish-base deprecated feature in forums, will not be collected.
 
 * If collected topic involve pyblish-base deprecated feature, notice will be made aside.
 
 * Example code in the topic might be modified, for catch up the latest release of pyblish-base.
 
-* Some pyblish-base issue link in forum might broke due to pyblish-base was named pyblish in old version, those link would be redirect in here.
+* Some pyblish-base issue link in forum might broke due to pyblish-base was named pyblish in old release, those link would be redirect in here.
 
-* Pyblish team use British spelling, but my spell checker use American... please don't mind.
-
----
-###### Editor's background
-
-For better understanding why or how I might collect topics and organize them, I shall brief my knowledge background plus something else.
-
-* DCC app: Maya
-* about 4 years of Generalist experience, starting to look at pipeline dev.
-* Work with Python and MEL
-* English might not my strong suit
-* Has needs to make a workable animation pipeline in no time
-* Willing to share
+* Pyblish Forum mainly use British spelling, but my spell checker use American.
