@@ -1,0 +1,1 @@
+http://forums.pyblish.com/t/simpleplugin/60

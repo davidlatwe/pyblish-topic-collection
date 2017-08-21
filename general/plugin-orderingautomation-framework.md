@@ -20,17 +20,25 @@ The ordering in which plugins are currently being run.
 
 Example:
 ```python
-class SelectObjectSet(Selector):
-    order = 0
+class CollectObjectSet(pyblish.api.ContextPlugin):
+    order = pyblish.api.CollectorOrder # 0
+    def process():
+        # do sometiong
 
-class ValidateNamingConvention(Validator):
-    order = 1
+class ValidateNamingConvention(pyblish.api.InstancePlugin):
+    order = pyblish.api.ValidatorOrder # 1
+    def process():
+        # do sometiong
 
-class ExtractAsMa(Extractor):
-    order = 2
+class ExtractAsMa(pyblish.api.InstancePlugin):
+    order = pyblish.api.ExtractorOrder # 2
+    def process():
+        # do sometiong
 
-class ConformWithAsana(Conform):
-    order = 3
+class IntegratWithAsana(pyblish.api.InstancePlugin):
+    order = pyblish.api.IntegratorOrder # 3
+    def process():
+        # do sometiong
 ```
 
 The order attribute located on each plugin.
@@ -45,3 +53,7 @@ Viola !
 for plugin in plugins_in_order:
      plugin().process(context)
 ```
+
+> Editor:
+> We don't need to actually doing this, it's automated in Pyblish.
+> Just sharing the concept of how it process ordering.
