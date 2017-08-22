@@ -1,7 +1,7 @@
-# Pyblish Forums Topics Collection
+# Pyblish Topics Collection
 
 This is a topics collection from **[Pyblish Forums](http://forums.pyblish.com/)**.
-For who just jump into **[Pyblish](http://pyblish.com/)** and needs to quickly catch up Pyblish Forum's mind flow.
+For who just jump into **[Pyblish](http://pyblish.com/)** and needs to catch up Pyblish's mind flow in-depth.
 
 ##### before reading this book, should read this first
 * [Pyblish by Example](https://learn.pyblish.com/)
@@ -26,9 +26,9 @@ Current ( when edit this book ) Pyblish-base version: 1.4.5
 
 * Editor not only simplified, but also needs to organize them. ( Not just copy and paste )
 
-* Some topics relative to pyblish-base deprecated feature in forums, might not be collected.
+* Some topics relative to pyblish-base deprecated/superseded feature in forums, might not be collected.
 
-* If collected topic involve pyblish-base deprecated feature, notice will be made aside.
+* If collected topic involve pyblish-base deprecated/superseded feature, notice will be made aside.
 
 * Example code in the topic might be modified, for catch up the latest release of pyblish-base.
 
